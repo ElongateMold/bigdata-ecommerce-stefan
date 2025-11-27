@@ -1,5 +1,4 @@
 # Proyecto Final Big Data - Análisis de eCommerce
-
 ## Descripción
 Pipeline analítico batch procesando >100 millones de eventos de eCommerce usando Spark y DuckDB.
 
